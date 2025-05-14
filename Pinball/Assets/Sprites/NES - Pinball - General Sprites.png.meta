@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: 40de6b7df0b02cc459cbcf8fdac8492a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2520431387140971076
+    second: NES - Pinball - General Sprites_0
+  - first:
+      213: 2815159466832859023
+    second: NES - Pinball - General Sprites_1
+  - first:
+      213: 256517312117628571
+    second: NES - Pinball - General Sprites_2
+  - first:
+      213: 5086757073180742539
+    second: NES - Pinball - General Sprites_3
+  - first:
+      213: -5175755768952879890
+    second: NES - Pinball - General Sprites_4
+  - first:
+      213: -6267868918004565960
+    second: NES - Pinball - General Sprites_5
+  - first:
+      213: 2151747436378800707
+    second: NES - Pinball - General Sprites_6
+  - first:
+      213: -8150462203393378461
+    second: NES - Pinball - General Sprites_7
+  - first:
+      213: 3070543967665198726
+    second: NES - Pinball - General Sprites_8
+  - first:
+      213: -5163074669176930244
+    second: NES - Pinball - General Sprites_9
+  - first:
+      213: 4351644164220860620
+    second: NES - Pinball - General Sprites_10
+  - first:
+      213: 2680668754387899737
+    second: NES - Pinball - General Sprites_11
+  - first:
+      213: 5782978217328122427
+    second: NES - Pinball - General Sprites_12
+  - first:
+      213: 5365523655994286211
+    second: NES - Pinball - General Sprites_13
+  - first:
+      213: -2620152518520543020
+    second: NES - Pinball - General Sprites_14
+  - first:
+      213: 4529496898153780677
+    second: NES - Pinball - General Sprites_15
+  - first:
+      213: -4439328431198555075
+    second: NES - Pinball - General Sprites_16
+  - first:
+      213: -2138229583948139017
+    second: NES - Pinball - General Sprites_17
+  - first:
+      213: -8127465017118743212
+    second: NES - Pinball - General Sprites_18
+  - first:
+      213: 6816243555053378147
+    second: NES - Pinball - General Sprites_19
+  - first:
+      213: 1523875943692914427
+    second: NES - Pinball - General Sprites_20
+  - first:
+      213: -4996978130922349651
+    second: NES - Pinball - General Sprites_21
+  - first:
+      213: 4729116935255036852
+    second: NES - Pinball - General Sprites_22
+  - first:
+      213: 3080258935563713639
+    second: NES - Pinball - General Sprites_23
+  - first:
+      213: 944263890387036903
+    second: NES - Pinball - General Sprites_24
+  - first:
+      213: 7599307595132914009
+    second: NES - Pinball - General Sprites_25
+  - first:
+      213: -5756175624486270999
+    second: NES - Pinball - General Sprites_26
+  - first:
+      213: 9170759017578356470
+    second: NES - Pinball - General Sprites_27
+  - first:
+      213: -2328711502297336925
+    second: NES - Pinball - General Sprites_28
+  - first:
+      213: 279393862772988008
+    second: NES - Pinball - General Sprites_29
+  - first:
+      213: 1626986871636600143
+    second: NES - Pinball - General Sprites_30
+  - first:
+      213: -111184765927084092
+    second: NES - Pinball - General Sprites_31
+  - first:
+      213: 6438268157911561898
+    second: NES - Pinball - General Sprites_32
+  - first:
+      213: -4265074399623922996
+    second: NES - Pinball - General Sprites_33
+  - first:
+      213: -1938182437120610221
+    second: NES - Pinball - General Sprites_34
+  - first:
+      213: -2141920648966089247
+    second: NES - Pinball - General Sprites_35
+  - first:
+      213: -49511371345429809
+    second: NES - Pinball - General Sprites_36
+  - first:
+      213: -4997626021651776324
+    second: NES - Pinball - General Sprites_37
+  - first:
+      213: -8296542657665376923
+    second: NES - Pinball - General Sprites_38
+  - first:
+      213: 7066815811555906738
+    second: NES - Pinball - General Sprites_39
+  - first:
+      213: -3869012863240463346
+    second: NES - Pinball - General Sprites_40
+  - first:
+      213: 1935089763910423234
+    second: NES - Pinball - General Sprites_41
+  - first:
+      213: 5161608694627739759
+    second: NES - Pinball - General Sprites_42
+  - first:
+      213: -6189850999514144814
+    second: NES - Pinball - General Sprites_43
+  - first:
+      213: 5227825510291963771
+    second: NES - Pinball - General Sprites_44
+  - first:
+      213: -3149397962126353625
+    second: NES - Pinball - General Sprites_45
+  - first:
+      213: 7559617336927544705
+    second: NES - Pinball - General Sprites_46
+  - first:
+      213: -511366829072595672
+    second: NES - Pinball - General Sprites_47
+  - first:
+      213: 6657025788737899884
+    second: NES - Pinball - General Sprites_48
+  - first:
+      213: 8976227156489238819
+    second: NES - Pinball - General Sprites_49
+  - first:
+      213: -2065247519960648967
+    second: NES - Pinball - General Sprites_50
+  - first:
+      213: -5155391911564612115
+    second: NES - Pinball - General Sprites_51
+  - first:
+      213: -5505438789097250001
+    second: NES - Pinball - General Sprites_52
+  - first:
+      213: -6457208359995839193
+    second: NES - Pinball - General Sprites_53
+  - first:
+      213: 7662044194485895215
+    second: NES - Pinball - General Sprites_54
+  - first:
+      213: 2285487502255108961
+    second: NES - Pinball - General Sprites_55
+  - first:
+      213: 4965831214549324259
+    second: NES - Pinball - General Sprites_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 182
+        width: 256
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a58472efe5af220800000000000000
+      internalID: 2520431387140971076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 182
+        width: 256
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f86a6ae94711720800000000000000
+      internalID: 2815159466832859023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 182
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e5283e2255f8300800000000000000
+      internalID: 256517312117628571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83d4a57b9ac79640800000000000000
+      internalID: 5086757073180742539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4826bec850c28b0800000000000000
+      internalID: -5175755768952879890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83830ab7d6e0409a0800000000000000
+      internalID: -6267868918004565960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 102
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34247b794ea8cdd10800000000000000
+      internalID: 2151747436378800707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 102
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3677d7b1fcdb3ee80800000000000000
+      internalID: -8150462203393378461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 102
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68617eb5873cc9a20800000000000000
+      internalID: 3070543967665198726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 102
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3044ea81f21958b0800000000000000
+      internalID: -5163074669176930244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 101
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83945bf45246c30800000000000000
+      internalID: 4351644164220860620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 102
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95597c18706a33520800000000000000
+      internalID: 2680668754387899737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 102
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1aa39c04414050800000000000000
+      internalID: 5782978217328122427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 102
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ae7d565b267a40800000000000000
+      internalID: 5365523655994286211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 102
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ec34aa2953abd0800000000000000
+      internalID: -2620152518520543020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 102
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c590b93e610cde30800000000000000
+      internalID: 4529496898153780677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 102
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343e19ff465462c0800000000000000
+      internalID: -4439328431198555075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 102
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f53a80b58b7352e0800000000000000
+      internalID: -2138229583948139017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 102
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455293ac0a1753f80800000000000000
+      internalID: -8127465017118743212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 102
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a90893669289e50800000000000000
+      internalID: 6816243555053378147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 102
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe4491d815e52510800000000000000
+      internalID: 1523875943692914427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 102
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5af37dda27aab0800000000000000
+      internalID: -4996978130922349651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 102
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31923fbc231a140800000000000000
+      internalID: 4729116935255036852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 102
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7f769e274fba20800000000000000
+      internalID: 3080258935563713639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea6fb06103ba1d00800000000000000
+      internalID: 944263890387036903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 103
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95943d2bef9267960800000000000000
+      internalID: 7599307595132914009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7cbbd54c4fd10b0800000000000000
+      internalID: -5756175624486270999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 104
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fed77bdcb4154f70800000000000000
+      internalID: 9170759017578356470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 104
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a373390a31ceafd0800000000000000
+      internalID: -2328711502297336925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 104
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8681207ec3b90e300800000000000000
+      internalID: 279393862772988008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 31
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45af1a80f7349610800000000000000
+      internalID: 1626986871636600143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 31
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf2b726b0ef47ef0800000000000000
+      internalID: -111184765927084092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 31
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6f60937c2595950800000000000000
+      internalID: 6438268157911561898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 31
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccabdcd4e696fc4c0800000000000000
+      internalID: -4265074399623922996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 62
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507685a7513a15e0800000000000000
+      internalID: -1938182437120610221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 62
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e55d45a48e5642e0800000000000000
+      internalID: -2141920648966089247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 62
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcafc9a8ba9105ff0800000000000000
+      internalID: -49511371345429809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 62
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc7233ac9dd4aab0800000000000000
+      internalID: -4997626021651776324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 62
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ddaf9e862ccdc80800000000000000
+      internalID: -8296542657665376923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 62
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b457ecf98f521260800000000000000
+      internalID: 7066815811555906738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c922fbc418e4ac0800000000000000
+      internalID: -3869012863240463346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2106243e1dada10800000000000000
+      internalID: 1935089763910423234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68aad8a2c7b1a740800000000000000
+      internalID: 5161608694627739759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfdc59af4b391aa0800000000000000
+      internalID: -6189850999514144814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f7da87a97fc8840800000000000000
+      internalID: 5227825510291963771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b9e1b5d371b44d0800000000000000
+      internalID: -3149397962126353625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18563755ae729e860800000000000000
+      internalID: 7559617336927544705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 62
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c53b049247e8f0800000000000000
+      internalID: -511366829072595672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 62
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d46563fa1826c50800000000000000
+      internalID: 6657025788737899884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 70
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32971cd6a07f19c70800000000000000
+      internalID: 8976227156489238819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 62
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23d7f9254c653e0800000000000000
+      internalID: -2065247519960648967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 62
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dede441fe5e5478b0800000000000000
+      internalID: -5155391911564612115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 62
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23a3332790c893b0800000000000000
+      internalID: -5505438789097250001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 62
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72de3c555336366a0800000000000000
+      internalID: -6457208359995839193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 63
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f200da1899c055a60800000000000000
+      internalID: 7662044194485895215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 61
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b28636cea7bf10800000000000000
+      internalID: 2285487502255108961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Pinball - General Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 34
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e152c5fd2d2ae440800000000000000
+      internalID: 4965831214549324259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
