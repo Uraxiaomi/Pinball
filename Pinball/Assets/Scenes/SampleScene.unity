@@ -2687,7 +2687,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0.37976134, y: 0.009691327}
-  m_ConnectedAnchor: {x: -0.50530267, y: -0.1694513}
+  m_ConnectedAnchor: {x: -0.53411794, y: -0.07542019}
   m_UseConnectedAnchor: 1
   m_UseMotor: 0
   m_Motor:
@@ -2839,7 +2839,7 @@ Transform:
   m_GameObject: {fileID: 1169188260}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.08715578, w: 0.9961947}
-  m_LocalPosition: {x: 0.62799996, y: -3.4939995, z: 1}
+  m_LocalPosition: {x: 0.579, y: -3.492, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2857,7 +2857,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5610d5a867d07f4a93c4a38e425b48e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flipForce: 3
+  flipForce: 5
   _rb: {fileID: 0}
 --- !u!1001 &1208233325
 PrefabInstance:
@@ -3372,7 +3372,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -0.08560538, y: 0.011452913}
-  m_ConnectedAnchor: {x: -0.71160096, y: -2.5565484}
+  m_ConnectedAnchor: {x: -0.70469224, y: -2.6035862}
   m_UseConnectedAnchor: 1
   m_UseMotor: 0
   m_Motor:
@@ -3380,8 +3380,8 @@ HingeJoint2D:
     m_MaximumMotorForce: 10000
   m_UseLimits: 0
   m_AngleLimits:
-    m_LowerAngle: 95.5
-    m_UpperAngle: 455.56
+    m_LowerAngle: 0
+    m_UpperAngle: 359
 --- !u!50 &1576080315
 Rigidbody2D:
   serializedVersion: 5
@@ -3635,13 +3635,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576080313}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.2342894, w: 0.9721669}
+  m_LocalRotation: {x: -0, y: -0, z: 0.042329885, w: 0.9991037}
   m_LocalPosition: {x: -3.013, y: -0.652, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -27.099}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.852}
 --- !u!4 &1621614290 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5734657873556857755, guid: 8db799188ac61584cba0b8a49f648a10, type: 3}
@@ -4717,7 +4717,7 @@ Transform:
   m_GameObject: {fileID: 1647694015}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.13, y: 3.885, z: 0}
+  m_LocalPosition: {x: -0.8, y: 4.52, z: 0}
   m_LocalScale: {x: 0.7364, y: 0.7364, z: 0.7364}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5538,7 +5538,7 @@ Transform:
   m_GameObject: {fileID: 1943601124}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: -0.08715578, w: 0.9961947}
-  m_LocalPosition: {x: -0.92, y: -3.4929996, z: 0}
+  m_LocalPosition: {x: -0.878, y: -3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5560,7 +5560,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -0.38044387, y: 0.008413421}
-  m_ConnectedAnchor: {x: 0.5089923, y: -0.1593392}
+  m_ConnectedAnchor: {x: 0.5359047, y: -0.11468202}
   m_UseConnectedAnchor: 1
   m_UseMotor: 0
   m_Motor:
@@ -5609,7 +5609,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5610d5a867d07f4a93c4a38e425b48e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flipForce: 3
+  flipForce: 5
   _rb: {fileID: 0}
 --- !u!1 &1945137073
 GameObject:
@@ -5656,7 +5656,7 @@ HingeJoint2D:
   m_UseLimits: 1
   m_AngleLimits:
     m_LowerAngle: 0
-    m_UpperAngle: 359.04837
+    m_UpperAngle: 358.9901
 --- !u!50 &1945137075
 Rigidbody2D:
   serializedVersion: 5
