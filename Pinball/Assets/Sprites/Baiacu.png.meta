@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Baiacu_0: -1516202606389846002
+      Baiacu_1: -2662028252798184137
+      Baiacu_2: 8004338582782366063
+      Baiacu_3: 5749345320209957465
+      Baiacu_4: -6849393304994088465
+      Baiacu_5: -3113973498039038177
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
