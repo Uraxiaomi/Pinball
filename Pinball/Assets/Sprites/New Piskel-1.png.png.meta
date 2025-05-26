@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7c02a125aa38e9f4eb89ecf51939b901
+guid: 5f8a439ddd950194dbb4a0680aaab4fd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5819914629719685090
-    second: Agua vivra_0
+      213: 5931842347579807508
+    second: New Piskel-1.png_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 400
+  spritePixelsToUnits: 95
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Agua vivra_0
+      name: New Piskel-1.png_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 261
-        width: 685
-        height: 719
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5290697, y: 0.4741602}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e77a8f358d74c050800000000000000
-      internalID: 5819914629719685090
+      spriteID: 4171d17df23225250800000000000000
+      internalID: 5931842347579807508
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4eeae15b8c2fc9542ab6f5ac2daf074f
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Agua vivra_0: 5819914629719685090
+      New Piskel-1.png_0: 5931842347579807508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
