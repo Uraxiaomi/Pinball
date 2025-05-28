@@ -3,7 +3,7 @@ using UnityEngine;
 public class Mola : MonoBehaviour
 {
     public Rigidbody2D _rb;
-    public float pullForce = 10f;
+    public float pullForce = 0;
     public bool comBola = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,7 +16,12 @@ public class Mola : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
+            pullForce = (Time.deltaTime * 50) + pullForce;
             _rb.AddForce(new Vector2(0f, -1f) * pullForce, ForceMode2D.Force);
+        }
+        else
+        {
+            pullForce = 0;
         }
     }
 }
