@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: 12f35ba915f6c4f438d9a86ccd47e748
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8049480835929219750
+    second: Bolas_0
+  - first:
+      213: 8477848491211523050
+    second: Bolas_1
+  - first:
+      213: -5327741941398897805
+    second: Bolas_2
+  - first:
+      213: -1125670168150594909
+    second: Bolas_3
+  - first:
+      213: 4076100224635227594
+    second: Bolas_4
+  - first:
+      213: 4756803320941791638
+    second: Bolas_5
+  - first:
+      213: -2873781138712209580
+    second: Bolas_6
+  - first:
+      213: 915634318973699928
+    second: Bolas_7
+  - first:
+      213: 6447609959449141748
+    second: Bolas_8
+  - first:
+      213: -5819936422052253986
+    second: Bolas_9
+  - first:
+      213: -6184635446349390723
+    second: Bolas_10
+  - first:
+      213: -5161895091079098938
+    second: Bolas_11
+  - first:
+      213: -9167621456248733619
+    second: Bolas_12
+  - first:
+      213: -2708304409191071638
+    second: Bolas_13
+  - first:
+      213: -4010360136579523622
+    second: Bolas_14
+  - first:
+      213: 4633899685251690514
+    second: Bolas_15
+  - first:
+      213: 7577840952444541735
+    second: Bolas_16
+  - first:
+      213: -2556877089959739249
+    second: Bolas_17
+  - first:
+      213: 4143101000996313040
+    second: Bolas_18
+  - first:
+      213: -4829269282354573640
+    second: Bolas_19
+  - first:
+      213: -7604537735673721009
+    second: Bolas_20
+  - first:
+      213: -4594588226236832578
+    second: Bolas_21
+  - first:
+      213: -2769003845502116345
+    second: Bolas_22
+  - first:
+      213: 5268000499092731163
+    second: Bolas_23
+  - first:
+      213: 3587214322486472232
+    second: Bolas_24
+  - first:
+      213: -6488394948923656125
+    second: Bolas_25
+  - first:
+      213: -2230488470471273963
+    second: Bolas_26
+  - first:
+      213: -253061965082916714
+    second: Bolas_27
+  - first:
+      213: -4018380967297426605
+    second: Bolas_28
+  - first:
+      213: -2791206478976706109
+    second: Bolas_29
+  - first:
+      213: -2229367801936024246
+    second: Bolas_30
+  - first:
+      213: -4287948657239772421
+    second: Bolas_31
+  - first:
+      213: 2943840630852231786
+    second: Bolas_32
+  - first:
+      213: -6653237761740558599
+    second: Bolas_33
+  - first:
+      213: 6844394092251225661
+    second: Bolas_34
+  - first:
+      213: 6213310860944066337
+    second: Bolas_35
+  - first:
+      213: -3328354999081362538
+    second: Bolas_36
+  - first:
+      213: -2995039580280832153
+    second: Bolas_37
+  - first:
+      213: 7576248565214715612
+    second: Bolas_38
+  - first:
+      213: -2922333524989040668
+    second: Bolas_39
+  - first:
+      213: 6349015167896342483
+    second: Bolas_40
+  - first:
+      213: -7326590235284498543
+    second: Bolas_41
+  - first:
+      213: 4400853608907533451
+    second: Bolas_42
+  - first:
+      213: 2901546861007340173
+    second: Bolas_43
+  - first:
+      213: 5528100984250292026
+    second: Bolas_44
+  - first:
+      213: -2506054972399146896
+    second: Bolas_45
+  - first:
+      213: 7254652704981031583
+    second: Bolas_46
+  - first:
+      213: 7304350922909377998
+    second: Bolas_47
+  - first:
+      213: 5533973813061171106
+    second: Bolas_48
+  - first:
+      213: -6759540547714886040
+    second: Bolas_49
+  - first:
+      213: 5422136930161059980
+    second: Bolas_50
+  - first:
+      213: 2590199683203642508
+    second: Bolas_51
+  - first:
+      213: -520609183138582250
+    second: Bolas_52
+  - first:
+      213: -5947996661887972804
+    second: Bolas_53
+  - first:
+      213: 2219203383782002373
+    second: Bolas_54
+  - first:
+      213: 283796702560862165
+    second: Bolas_55
+  - first:
+      213: -123883535370509554
+    second: Bolas_56
+  - first:
+      213: 2520917126667011459
+    second: Bolas_57
+  - first:
+      213: 1177944415876955879
+    second: Bolas_58
+  - first:
+      213: 7883453395705128121
+    second: Bolas_59
+  - first:
+      213: -5307238343123654022
+    second: Bolas_60
+  - first:
+      213: 6594227863088926635
+    second: Bolas_61
+  - first:
+      213: -7439168273537578758
+    second: Bolas_62
+  - first:
+      213: -2390477267178200724
+    second: Bolas_63
+  - first:
+      213: 3560820241838970256
+    second: Bolas_64
+  - first:
+      213: 4330450578164977898
+    second: Bolas_65
+  - first:
+      213: 2133033016924168452
+    second: Bolas_66
+  - first:
+      213: 1477195484708628893
+    second: Bolas_67
+  - first:
+      213: 2909151118042086334
+    second: Bolas_68
+  - first:
+      213: -5520231433355195888
+    second: Bolas_69
+  - first:
+      213: 5724704545586307006
+    second: Bolas_70
+  - first:
+      213: -4315569444092035869
+    second: Bolas_71
+  - first:
+      213: -3791749502415553968
+    second: Bolas_72
+  - first:
+      213: -5843830045944139510
+    second: Bolas_73
+  - first:
+      213: 3053528987306503724
+    second: Bolas_74
+  - first:
+      213: 4490223220748319359
+    second: Bolas_75
+  - first:
+      213: -120137338800189769
+    second: Bolas_76
+  - first:
+      213: 2482378708815878682
+    second: Bolas_77
+  - first:
+      213: -3127118676631811754
+    second: Bolas_78
+  - first:
+      213: -129360694309402528
+    second: Bolas_79
+  - first:
+      213: -4348186714437679808
+    second: Bolas_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 151, y: 0, z: 156, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bolas_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 345
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a220eb1c2085bf60800000000000000
+      internalID: 8049480835929219750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 330
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae38e32094e57a570800000000000000
+      internalID: 8477848491211523050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 318
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bf7ff8eee0016b0800000000000000
+      internalID: -5327741941398897805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 362
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa212532f0d060f0800000000000000
+      internalID: -1125670168150594909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 345
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc546ee87319830800000000000000
+      internalID: 4076100224635227594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 347
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994223fa6f830240800000000000000
+      internalID: 4756803320941791638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 346
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45757d0c7474e18d0800000000000000
+      internalID: -2873781138712209580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 321
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8578596df8cf4bc00800000000000000
+      internalID: 915634318973699928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 315
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1ac33e8138a7950800000000000000
+      internalID: 6447609959449141748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 334
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea734d8ae6b3fa0800000000000000
+      internalID: -5819936422052253986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 303
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1e0344d2cb2aa0800000000000000
+      internalID: -6184635446349390723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdc56873c34d58b0800000000000000
+      internalID: -5161895091079098938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 288
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d408b019bd016c080800000000000000
+      internalID: -9167621456248733619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 295
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ca823d7b2a6ad0800000000000000
+      internalID: -2708304409191071638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 293
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5acd14b65858c0800000000000000
+      internalID: -4010360136579523622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210b838563bee4040800000000000000
+      internalID: 4633899685251690514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 262
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b5dd67236e92960800000000000000
+      internalID: 7577840952444541735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 287
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f808d9665d5248cd0800000000000000
+      internalID: -2556877089959739249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 268
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d753f8c8604f7930800000000000000
+      internalID: 4143101000996313040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 264
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8becc8c9c2dfafcb0800000000000000
+      internalID: -4829269282354573640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 254
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4d105831477690800000000000000
+      internalID: -7604537735673721009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 261
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb426f5f95ebc30c0800000000000000
+      internalID: -4594588226236832578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 259
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed72f5ca58299d0800000000000000
+      internalID: -2769003845502116345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 254
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15b009fa82bb1940800000000000000
+      internalID: 5268000499092731163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 232
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eeff0ab6858c130800000000000000
+      internalID: 3587214322486472232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 181
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34877f2cb2794f5a0800000000000000
+      internalID: -6488394948923656125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 213
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51294f1cd86bb01e0800000000000000
+      internalID: -2230488470471273963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6980219cb71fc7cf0800000000000000
+      internalID: -253061965082916714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 181
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdb00fcc7db38c0800000000000000
+      internalID: -4018380967297426605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 185
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c913ddee74a349d0800000000000000
+      internalID: -2791206478976706109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4de8ebbbc1bf01e0800000000000000
+      internalID: -2229367801936024246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 180
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23c1e2a652e74c0800000000000000
+      internalID: -4287948657239772421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 140
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622f45e47f9ad820800000000000000
+      internalID: 2943840630852231786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 127
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2d3d8183faa3a0800000000000000
+      internalID: -6653237761740558599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 141
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9a6be92c2cfe50800000000000000
+      internalID: 6844394092251225661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 118
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127c5a9fe4d1a3650800000000000000
+      internalID: 6213310860944066337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_36
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 141
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1c5143ce4fc1d0800000000000000
+      internalID: -3328354999081362538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f3021ce5b7f66d0800000000000000
+      internalID: -2995039580280832153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde9fabeded342960800000000000000
+      internalID: 7576248565214715612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e720d76429c177d0800000000000000
+      internalID: -2922333524989040668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 110
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df470c18ab3c1850800000000000000
+      internalID: 6349015167896342483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 88
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197950bbff8b25a90800000000000000
+      internalID: -7326590235284498543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 96
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ced636a09f21d30800000000000000
+      internalID: 4400853608907533451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 92
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d820e7d3f7d544820800000000000000
+      internalID: 2901546861007340173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 88
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d9b85e82c7bc40800000000000000
+      internalID: 5528100984250292026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0782c8eb744b83dd0800000000000000
+      internalID: -2506054972399146896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9839c234bda460800000000000000
+      internalID: 7254652704981031583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 88
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56fcad6744e5560800000000000000
+      internalID: 7304350922909377998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 82
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a733dbdcdf9ccc40800000000000000
+      internalID: 5533973813061171106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866da987fa94132a0800000000000000
+      internalID: -6759540547714886040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 86
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88e6cd6fcc4f3b40800000000000000
+      internalID: 5422136930161059980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 86
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84beae63ec32f320800000000000000
+      internalID: 2590199683203642508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 45
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f73cc4bc66c8f0800000000000000
+      internalID: -520609183138582250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a45f2cc88747da0800000000000000
+      internalID: -5947996661887972804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 44
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cecbae38b13cce10800000000000000
+      internalID: 2219203383782002373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 66
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df319ce89f30f300800000000000000
+      internalID: 283796702560862165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 56
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03a8b8b490e74ef0800000000000000
+      internalID: -123883535370509554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3858f2335c81cf220800000000000000
+      internalID: 2520917126667011459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 40
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee30898436e85010800000000000000
+      internalID: 1177944415876955879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e9565817a76d60800000000000000
+      internalID: 7883453395705128121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a28cb88d6e856b0800000000000000
+      internalID: -5307238343123654022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 25
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0663cd47638b50800000000000000
+      internalID: 6594227863088926635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8cf6f9ed3c2c890800000000000000
+      internalID: -7439168273537578758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61623e379153ded0800000000000000
+      internalID: -2390477267178200724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 41
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09515d7d4239a6130800000000000000
+      internalID: 3560820241838970256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_65
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 35
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae098ec6bd9d81c30800000000000000
+      internalID: 4330450578164977898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_66
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 25
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401e1f34a3e0a9d10800000000000000
+      internalID: 2133033016924168452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996ed1877d008410800000000000000
+      internalID: 1477195484708628893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb34dc47816f5820800000000000000
+      internalID: 2909151118042086334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a0be042c23463b0800000000000000
+      internalID: -5520231433355195888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_70
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5cb3147c327f40800000000000000
+      internalID: 5724704545586307006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 22
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec3d5994740c14c0800000000000000
+      internalID: -4315569444092035869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_72
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ab147caeff06bc0800000000000000
+      internalID: -3791749502415553968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01bebff88b86eea0800000000000000
+      internalID: -5843830045944139510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_74
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e23c78f60506a20800000000000000
+      internalID: 3053528987306503724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7af9e2aa3a705e30800000000000000
+      internalID: 4490223220748319359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7becd841abf255ef0800000000000000
+      internalID: -120137338800189769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_77
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a96f0984e237220800000000000000
+      internalID: 2482378708815878682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590fdcb12e3a94d0800000000000000
+      internalID: -3127118676631811754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_79
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684ac7422b643ef0800000000000000
+      internalID: -129360694309402528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolas_80
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0458edc883328a3c0800000000000000
+      internalID: -4348186714437679808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bolas_0: 8049480835929219750
+      Bolas_1: 8477848491211523050
+      Bolas_10: -6184635446349390723
+      Bolas_11: -5161895091079098938
+      Bolas_12: -9167621456248733619
+      Bolas_13: -2708304409191071638
+      Bolas_14: -4010360136579523622
+      Bolas_15: 4633899685251690514
+      Bolas_16: 7577840952444541735
+      Bolas_17: -2556877089959739249
+      Bolas_18: 4143101000996313040
+      Bolas_19: -4829269282354573640
+      Bolas_2: -5327741941398897805
+      Bolas_20: -7604537735673721009
+      Bolas_21: -4594588226236832578
+      Bolas_22: -2769003845502116345
+      Bolas_23: 5268000499092731163
+      Bolas_24: 3587214322486472232
+      Bolas_25: -6488394948923656125
+      Bolas_26: -2230488470471273963
+      Bolas_27: -253061965082916714
+      Bolas_28: -4018380967297426605
+      Bolas_29: -2791206478976706109
+      Bolas_3: -1125670168150594909
+      Bolas_30: -2229367801936024246
+      Bolas_31: -4287948657239772421
+      Bolas_32: 2943840630852231786
+      Bolas_33: -6653237761740558599
+      Bolas_34: 6844394092251225661
+      Bolas_35: 6213310860944066337
+      Bolas_36: -3328354999081362538
+      Bolas_37: -2995039580280832153
+      Bolas_38: 7576248565214715612
+      Bolas_39: -2922333524989040668
+      Bolas_4: 4076100224635227594
+      Bolas_40: 6349015167896342483
+      Bolas_41: -7326590235284498543
+      Bolas_42: 4400853608907533451
+      Bolas_43: 2901546861007340173
+      Bolas_44: 5528100984250292026
+      Bolas_45: -2506054972399146896
+      Bolas_46: 7254652704981031583
+      Bolas_47: 7304350922909377998
+      Bolas_48: 5533973813061171106
+      Bolas_49: -6759540547714886040
+      Bolas_5: 4756803320941791638
+      Bolas_50: 5422136930161059980
+      Bolas_51: 2590199683203642508
+      Bolas_52: -520609183138582250
+      Bolas_53: -5947996661887972804
+      Bolas_54: 2219203383782002373
+      Bolas_55: 283796702560862165
+      Bolas_56: -123883535370509554
+      Bolas_57: 2520917126667011459
+      Bolas_58: 1177944415876955879
+      Bolas_59: 7883453395705128121
+      Bolas_6: -2873781138712209580
+      Bolas_60: -5307238343123654022
+      Bolas_61: 6594227863088926635
+      Bolas_62: -7439168273537578758
+      Bolas_63: -2390477267178200724
+      Bolas_64: 3560820241838970256
+      Bolas_65: 4330450578164977898
+      Bolas_66: 2133033016924168452
+      Bolas_67: 1477195484708628893
+      Bolas_68: 2909151118042086334
+      Bolas_69: -5520231433355195888
+      Bolas_7: 915634318973699928
+      Bolas_70: 5724704545586307006
+      Bolas_71: -4315569444092035869
+      Bolas_72: -3791749502415553968
+      Bolas_73: -5843830045944139510
+      Bolas_74: 3053528987306503724
+      Bolas_75: 4490223220748319359
+      Bolas_76: -120137338800189769
+      Bolas_77: 2482378708815878682
+      Bolas_78: -3127118676631811754
+      Bolas_79: -129360694309402528
+      Bolas_8: 6447609959449141748
+      Bolas_80: -4348186714437679808
+      Bolas_9: -5819936422052253986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

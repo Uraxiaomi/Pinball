@@ -13,7 +13,7 @@ public class Reset : MonoBehaviour
         if(coll.gameObject.tag == "Bola")
         {
             Destroy(coll.gameObject);
-            Debug.Log("Você perdeu. Aperte R para reiniciar");
+            Debug.Log("Vocï¿½ perdeu. Aperte R para reiniciar");
             perdeu = true;
         }
     }
@@ -27,6 +27,10 @@ public class Reset : MonoBehaviour
     void Update()
     {
         if(perdeu && Input.GetKey(KeyCode.R))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+        else if(Input.GetKey(KeyCode.R))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
