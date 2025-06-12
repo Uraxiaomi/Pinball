@@ -4,7 +4,7 @@ public class Mola : MonoBehaviour
 {
     public Rigidbody2D _rb;
     public float pullForce = 0;
-    public bool comBola = false;
+    public bool puxando = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,10 +18,12 @@ public class Mola : MonoBehaviour
         {
             pullForce = (Time.deltaTime * 50) + pullForce;
             _rb.AddForce(new Vector2(0f, -1f) * pullForce, ForceMode2D.Force);
+            puxando = true;
         }
         else
         {
             pullForce = 0;
+            puxando = false;
         }
     }
 }
