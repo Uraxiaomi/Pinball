@@ -16,7 +16,7 @@ public class Mola : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
-            pullForce = (Time.deltaTime * 50) + pullForce;
+            pullForce = (Time.deltaTime * 80) + pullForce;
             _rb.AddForce(new Vector2(0f, -1f) * pullForce, ForceMode2D.Force);
             puxando = true;
         }

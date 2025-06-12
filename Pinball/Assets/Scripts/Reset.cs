@@ -7,12 +7,14 @@ using UnityEngine.SceneManagement;
 public class Reset : MonoBehaviour
 {
     public bool perdeu = false;
+    public AudioSource _ad;
 
     void OnCollisionEnter2D(Collision2D coll)
     {
         if(coll.gameObject.tag == "Bola")
         {
             Destroy(coll.gameObject);
+            _ad.Play();
             Debug.Log("Voc� perdeu. Aperte R para reiniciar");
             perdeu = true;
         }
